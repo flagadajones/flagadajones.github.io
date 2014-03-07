@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Mobile | Blog]]></title>
+  <link href="http://flagadajones.github.io/blog/categories/mobile/atom.xml" rel="self"/>
+  <link href="http://flagadajones.github.io/"/>
+  <updated>2014-03-07T10:20:15+01:00</updated>
+  <id>http://flagadajones.github.io/</id>
+  <author>
+    <name><![CDATA[FlagadaJones]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ca y est c'est parti]]></title>
+    <link href="http://flagadajones.github.io/blog/2014/03/01/ca-y-est-cest-parti/"/>
+    <updated>2014-03-01T16:27:01+01:00</updated>
+    <id>http://flagadajones.github.io/blog/2014/03/01/ca-y-est-cest-parti</id>
+    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut interdum, sem et dignissim sodales, eros eros dictum libero, a tincidunt.</p>
+
+<!-- more -->
+
+
+<h2>Principe</h2>
+
+<p>Le compteur EDF fourni un signal appelé téléinfo pouvant être transformé en signal série TTL compatible avec les cartes Raspberry Pi ou BeagleBone. Les spécifications du signal teleinfo et de son protocole sont disponibles sur le <a href="http://www.erdfdistribution.fr/medias/DTR_Racc_Comptage/ERDF-NOI-CPT_02E.pdf">http://www.erdfdistribution.fr/medias/DTR_Racc_Comptage/ERDF-NOI-CPT_02E.pdf</a>[site d'ERDF en PDF].</p>
+
+<p>configurer. En effet, la configuration est réalisée sur la partie haute du compteur &hellip; qui vous est interdite d'accès (plombage). Ayant un compteur configuré dès son installation, je ne pourrais pas vous guider plus sur la démarche à suivre.</p>
+
+<h2>Bornier client compteur EDF</h2>
+
+<p>Les bornes I1 et I2 fournissent le signal convoité. Vous pouvez utiliser du simple cable téléphonique et, dans des conditions optimales, la longueur de ce cable peut aller jusqu'à 500m (donnée des spécifications).</p>
+
+<h2>Montage teleinfo &ndash;> UART TTL</h2>
+
+<p>Le montage utilise uniquement uniquement 3 composants :</p>
+
+<ul>
+<li>1 optocoupleur <a href="http://www.vishay.com/docs/83675/sfh620a.pdf">http://www.vishay.com/docs/83675/sfh620a.pdf</a>[SFH620A]</li>
+<li>1 résistance 1.2k</li>
+<li>1 résistance 3.3k</li>
+</ul>
+
+
+<p>Attention à prendre la référence exacte de l'optocoupleur car les latences (de basculement) de celui-ci sont importantes. Inutile donc de chercher des équivalences avec le même montage.</p>
+
+<p>Comme le montre le schéma suivant, le montage est assez basique :</p>
+]]></content>
+  </entry>
+  
+</feed>
