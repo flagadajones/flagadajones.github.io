@@ -4,7 +4,7 @@
   <title><![CDATA[Blog]]></title>
   <link href="http://flagadajones.github.io/atom.xml" rel="self"/>
   <link href="http://flagadajones.github.io/"/>
-  <updated>2014-03-11T12:10:37+01:00</updated>
+  <updated>2014-03-12T00:11:46+01:00</updated>
   <id>http://flagadajones.github.io/</id>
   <author>
     <name><![CDATA[FlagadaJones]]></name>
@@ -267,6 +267,24 @@ Tristitiam tenebat tutam: suprema deum. Erat ita illa lata rustica fervet.</p>
 
 
 <p>Attention à prendre la référence exacte de l&#8217;optocoupleur car les latences (de basculement) de celui-ci sont importantes. Inutile donc de chercher des équivalences avec le même montage.</p>
+
+<p>Comme le montre le schéma suivant, le montage est assez basique :</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Distribution de session Tomcat su]]></title>
+    <link href="http://flagadajones.github.io/blog/2013/03/07/distribution-de-session-tomcat-sur-aws-elasticache2/"/>
+    <updated>2013-03-07T02:05:52+01:00</updated>
+    <id>http://flagadajones.github.io/blog/2013/03/07/distribution-de-session-tomcat-sur-aws-elasticache2</id>
+    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut interdum, sem et dignissim sodales, eros eros dictum libero, a tincidunt.</p>
+
+<!-- more -->
+
+
+<h2>Principe</h2>
+
+<p>LeLorem ipsum dolor sit amet, consectetur adipiscing elit. Ut interdum, sem et dignissim sodales, eros eros dictum libero, a tincidunt.</p>
 
 <p>Comme le montre le schéma suivant, le montage est assez basique :</p>
 ]]></content>
