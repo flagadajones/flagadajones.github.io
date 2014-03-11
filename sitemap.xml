@@ -1,34 +1,54 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://flagadajones.github.io/blog/2014/03/01/ca-y-est-cest-parti/</loc>
-        <lastmod>2014-03-07T10:19:22+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://flagadajones.github.io/blog/2014/03/03/post-1/</loc>
-        <lastmod>2014-03-07T10:18:55+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://flagadajones.github.io/blog/2014/03/03/post-2/</loc>
-        <lastmod>2014-03-07T10:19:40+01:00</lastmod>
+        <loc>http://flagadajones.github.io/blog/2013/03/01/ca-y-est-cest-parti1/</loc>
+        <lastmod>2014-03-10T17:44:05+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://flagadajones.github.io/blog/2014/03/07/distribution-de-session-tomcat-sur-aws-elasticache/
+            http://flagadajones.github.io/blog/2013/03/07/distribution-de-session-tomcat-sur-aws-elasticache/
         </loc>
-        <lastmod>2014-03-07T10:19:48+01:00</lastmod>
+        <lastmod>2014-03-11T00:57:26+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://flagadajones.github.io/blog/2014/03/01/ca-y-est-cest-parti/</loc>
+        <lastmod>2014-03-10T11:31:51+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://flagadajones.github.io/blog/2014/03/01/ca-y-est-cest-parti2/</loc>
+        <lastmod>2014-03-10T11:31:37+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://flagadajones.github.io/blog/2014/03/01/ca-y-est-cest-parti4/</loc>
+        <lastmod>2014-03-10T11:31:45+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://flagadajones.github.io/blog/2014/03/03/post-1/</loc>
+        <lastmod>2014-03-10T11:03:54+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://flagadajones.github.io/blog/2014/03/03/post-2/</loc>
+        <lastmod>2014-03-10T11:03:54+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://flagadajones.github.io/blog/2014/03/11/ca-y-est-cest-parti3/</loc>
+        <lastmod>2014-03-10T18:44:18+01:00</lastmod>
     </url>
     <url>
         <loc>http://flagadajones.github.io/about/</loc>
-        <lastmod>2014-03-04T17:24:34+01:00</lastmod>
+        <lastmod>2014-03-11T01:43:13+01:00</lastmod>
     </url>
     <url>
         <loc>http://flagadajones.github.io/blog/archives/</loc>
-        <lastmod>2014-03-07T10:19:48+01:00</lastmod>
+        <lastmod>2014-03-11T00:57:26+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://flagadajones.github.io/blog/categories/</loc>
+        <lastmod>2014-03-11T02:51:04+01:00</lastmod>
     </url>
     <url>
         <loc>http://flagadajones.github.io/</loc>
-        <lastmod>2014-03-07T10:19:48+01:00</lastmod>
+        <lastmod>2014-03-11T00:57:26+01:00</lastmod>
     </url>
     <url>
         <loc>http://flagadajones.github.io/robots.txt</loc>
